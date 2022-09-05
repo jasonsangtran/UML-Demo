@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-09-04T14:49:51.009Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="X3ead-iQz2vlz_6HPj4q" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-05T11:16:50.516Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="_8iJXE03UNLmUe1Jmzw6" version="20.2.8" type="github">
   <diagram id="BnTE62ytsvdGZQtbV1Mt" name="Page-1">
-    <mxGraphModel dx="572" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="852" dy="365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2XgzpGgX_Dnspsq_8UAF-1" value="GiaoDich" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+        <mxCell id="2XgzpGgX_Dnspsq_8UAF-1" value="GiaoDich (super)" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="110" width="160" height="210" as="geometry" />
         </mxCell>
         <mxCell id="2XgzpGgX_Dnspsq_8UAF-2" value="# maGiaoDich: int&#xa;# ngay: int&#xa;# thang: int&#xa;# nam: int&#xa;# donGia: float&#xa;# soLuong: int&#xa;# thanhTien: float" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="2XgzpGgX_Dnspsq_8UAF-1" vertex="1">
