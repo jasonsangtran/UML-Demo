@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-08T04:03:15.961Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="88D9WTkfD8FTcqWbAyWC" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-08T11:01:31.108Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="fdZuwR_mkXbMkdFvOySG" version="20.2.8" type="github">
   <diagram id="I-5L8rwWJhKDHBlDtYN6" name="Page-1">
-    <mxGraphModel dx="740" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="522" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
         <mxCell id="A5vPGGwMVd3nqbl5O4d--17" value="Customer" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="610" y="340" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="A5vPGGwMVd3nqbl5O4d--18" value="- String tenCongTy&#xa;- float triGiaHoaDon&#xa;- String danhGia&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="A5vPGGwMVd3nqbl5O4d--17" vertex="1">
+        <mxCell id="A5vPGGwMVd3nqbl5O4d--18" value="# String tenCongTy&#xa;# float triGiaHoaDon&#xa;# String danhGia&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="A5vPGGwMVd3nqbl5O4d--17" vertex="1">
           <mxGeometry y="26" width="160" height="74" as="geometry" />
         </mxCell>
         <mxCell id="A5vPGGwMVd3nqbl5O4d--19" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="A5vPGGwMVd3nqbl5O4d--17" vertex="1">
@@ -73,7 +73,7 @@
         <mxCell id="A5vPGGwMVd3nqbl5O4d--24" value="ListPerson" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="570" y="90" width="210" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="A5vPGGwMVd3nqbl5O4d--25" value="ArrayList&lt;Person&gt; : listPerson" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="A5vPGGwMVd3nqbl5O4d--24" vertex="1">
+        <mxCell id="A5vPGGwMVd3nqbl5O4d--25" value="# ArrayList&lt;Person&gt; : listPerson" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="A5vPGGwMVd3nqbl5O4d--24" vertex="1">
           <mxGeometry y="26" width="210" height="26" as="geometry" />
         </mxCell>
         <mxCell id="A5vPGGwMVd3nqbl5O4d--26" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="A5vPGGwMVd3nqbl5O4d--24" vertex="1">
