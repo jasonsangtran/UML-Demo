@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-09T15:37:26.143Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="u62wOI5AGrdXFP-Aw6t7" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-09T15:39:23.169Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="0j02czSd_x0admOARxjb" version="20.3.0" type="github">
   <diagram id="AwCMBFjszY7nE-Y_2umB" name="Page-1">
-    <mxGraphModel dx="1006" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="612" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,6 +63,18 @@
         </mxCell>
         <mxCell id="_kccQBADKB5BZTPADwCm-19" value="+ nhap()&#xa;+ xuat()&#xa;+ tinhLuong()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="_kccQBADKB5BZTPADwCm-16">
           <mxGeometry y="78" width="160" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="_kccQBADKB5BZTPADwCm-20" value="DanhSachNhanSu" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="160" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_kccQBADKB5BZTPADwCm-21" value="ArrayList&lt;NhanSu&gt; listNhanSu" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="_kccQBADKB5BZTPADwCm-20">
+          <mxGeometry y="26" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_kccQBADKB5BZTPADwCm-22" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="_kccQBADKB5BZTPADwCm-20">
+          <mxGeometry y="52" width="220" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="_kccQBADKB5BZTPADwCm-23" value="+ nhap()&#xa;+ xuat()&#xa;+ tinhLuong()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="_kccQBADKB5BZTPADwCm-20">
+          <mxGeometry y="60" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
