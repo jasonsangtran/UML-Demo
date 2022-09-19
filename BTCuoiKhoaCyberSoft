@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-19T04:05:31.605Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="dmqzQv-54w8zOkuFtMCi" version="20.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-19T04:20:18.003Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="K7ygmRWG9feFdiiU-OdQ" version="20.3.1" type="github" pages="2">
   <diagram id="NXtPjwvmdmMl-eDQlpSK" name="Page-1">
     <mxGraphModel dx="700" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -87,6 +87,17 @@
         </mxCell>
         <mxCell id="k-HyoJHL8zfFWrC6BSq0-27" value="+ method(type): ..." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="k-HyoJHL8zfFWrC6BSq0-24">
           <mxGeometry y="148" width="220" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Mg6M6DQv63b1SQPBZIH_" name="Page-2">
+    <mxGraphModel dx="700" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="x8TO-lw46GAQXZ8wpFgL-1" value="// ĐỌC FILE&lt;br&gt;&lt;br&gt;private static void readFile(){&lt;br&gt;try{&lt;br&gt;FileReader reader = new FileReader(&quot;src/Task.txt);&lt;br&gt;BufferedReader bufferedReader = new BufferedReader(reader);&lt;br&gt;String line;&lt;br&gt;while ((line = bufferedReader.readLine()) != null){&lt;br&gt;Sout.println(line);&lt;br&gt;String [ ] listInfo = line.split(&quot; # &quot;);&lt;br&gt;for (String a : listInfo) Sout.println(a);&lt;br&gt;}&lt;br&gt;reader.close();&lt;br&gt;&amp;nbsp;&lt;br&gt;}&lt;br&gt;catch (IOException e) {&lt;br&gt;e.printStackTrace();&lt;br&gt;}&lt;br&gt;}&lt;br&gt;}" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="80" width="420" height="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
